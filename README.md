@@ -1,4 +1,5 @@
-## Test environment:  Appium, Behave, PageObject
+## Purpose: BDD tests for Android app 
+## Project environment:  Appium, Behave, PageObject, Python
 ### Windows
 1. Install python 3.7
 2. Install plugin Cucumber
